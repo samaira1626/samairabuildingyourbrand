@@ -85,7 +85,6 @@
       <div class="projects-grid">
         <article class="project">
           <div class="project-banner pink">
-            <span>PROJECT 01</span>
             <strong>↗</strong>
           </div>
           <div class="project-content">
@@ -106,8 +105,6 @@
 
         <article class="project">
           <div class="project-banner yellow-banner">
-            <span>PROJECT 02</span>
-            <strong>◎</strong>
           </div>
           <div class="project-content">
             <p class="category">MARKETING COURSEWORK</p>
@@ -127,8 +124,6 @@
 
         <article class="project">
           <div class="project-banner blue-banner">
-            <span>PROJECT 03</span>
-            <strong>✳</strong>
           </div>
           <div class="project-content">
             <p class="category">COMMUNITY ENGAGEMENT</p>
